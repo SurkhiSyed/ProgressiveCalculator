@@ -1,0 +1,11 @@
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\bin\Debug\C-SharpCalculator.exe.config
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\bin\Debug\C-SharpCalculator.exe
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\bin\Debug\C-SharpCalculator.pdb
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\obj\Debug\C-SharpCalculator.csproj.AssemblyReference.cache
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\obj\Debug\C_SharpCalculator.Complex_Calculator.resources
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\obj\Debug\C_SharpCalculator.Properties.Resources.resources
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\obj\Debug\C-SharpCalculator.csproj.GenerateResource.cache
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\obj\Debug\C-SharpCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\obj\Debug\C-SharpCalculator.exe
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\obj\Debug\C-SharpCalculator.pdb
+C:\Users\ssurk\OneDrive\Documents\Coding Projects\C# Projects\C-SharpCalculator\C-SharpCalculator\obj\Debug\C_SharpCalculator.IntroScreen.resources
